@@ -40,11 +40,11 @@
                 <h3><?php _e('1.-Inscripción de los ficheros en el Registro General de la Protección de Datos. Artículo 26 LOPD. Artículos. 5 y 6 R.D 1332/1994, de 20 de Junio. ', 'lopd'); ?></h3>
                 <p><?php _e('Para esto hay que ir a:', 'lopd'); ?></p>
 
-                <p><a href="http://agpd.es/portalweb/canalresponsable/inscripcion_ficheros/Obtencion_formulario/index-ides-idphp.php" >http://agpd.es/portalweb/canalresponsable/inscripcion_ficheros/Obtencion_formulario/index-ides-idphp.php</a></p>
+                <p><a href="https://www.agpd.es/portalwebAGPD/canalresponsable/inscripcion_ficheros/Notificaciones_tele/obtencion_formulario/index-ides-idphp.php" >Obtenci&oacuten del formulario NOTA</a></p>
 
-                <p><?php echo sprintf(__('Elegir el Formulario NOTA de titularidad privada (<a href="%s">Aqui</a>)', 'lopd'), 'http://agpd.es/portalweb/canalresponsable/inscripcion_ficheros/Notificaciones_tele/obtencion_formulario/common/pdfs/Titularidad_Privada.pdf'); ?></p>
+                <p><?php echo sprintf(__('Elegir el Formulario NOTA de titularidad privada (<a href="%s">Aqui</a>)', 'lopd'), 'https://www.agpd.es/portalwebAGPD/canalresponsable/inscripcion_ficheros/Notificaciones_tele/obtencion_formulario/common/pdfs/Titularidad_Privada.pdf'); ?></p>
 
-                <p><?php echo sprintf(__('Guía para rellenar el formulario (<a href="%s">Aqui</a>) donde nos explican como cumplimentarlo y las 3 maneras que para enviarlor:', 'lopd'), 'http://agpd.es/portalweb/canalresponsable/inscripcion_ficheros/Notificaciones_tele/obtencion_formulario/common/pdfs/Guia_rapida_Sistema_NOTA.pdf'); ?></p>
+                <p><?php echo sprintf(__('Guía para rellenar el formulario (<a href="%s">Aqui</a>) donde nos explican como cumplimentarlo y las 3 maneras que para enviarlor:', 'lopd'), 'https://www.agpd.es/portalwebAGPD/canalresponsable/inscripcion_ficheros/Notificaciones_tele/obtencion_formulario/common/pdfs/Guia_rapida_Sistema_NOTA.pdf'); ?></p>
                 <p><?php _e('Internet + certificado digital: se hace todo por Internet y es inmediato.', 'lopd'); ?></p>
                 <p><?php _e('Internet sin certificado digital: se rellena por Internet y el sistema devuelve una solicitud que hay que enviar a la AEPD', 'lopd'); ?></p>
                 <p><?php _e('Presentación en papel: se rellena la solicitud, se imprime y se hace llegar a AEPD.', 'lopd'); ?></p>
@@ -67,7 +67,9 @@
 
                 <p><?php _e('Una vez recibido la confirmación de la incripción redactaremos el Documento de Seguridad, del cual tenemos una guia en:', 'lopd'); ?></p>
 
-                <p><a href="http://agpd.es/portalweb/canalresponsable/guia_documento/index-ides-idphp.php" >http://agpd.es/portalweb/canalresponsable/guia_documento/index-ides-idphp.php</a></p>
+                <p><a href="https://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/GUIA_SEGURIDAD_2010.pdf" >Documento: Gu&iacutea de Seguridad</a></p>
+
+                <p><a href="https://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf" >Gu&iacutea modelo del Documento de Seguridad </a></p>
 
                 <p><b><?php _e('Para completar este apartado, tendremos que partir de la guía base y adaptarla a nuestro caso particular.', 'lopd'); ?></b></p>
                 <br/>
@@ -84,7 +86,7 @@
                 <li><?php _e('Deben haber sido recogidos de forma lícita.', 'lopd'); ?></li>
                 </ol>
 
-                <p><?php echo sprintf(__('<a href="%s">Fuente</a>. Ver la fuente para profundizar y contemplar las infracciones derivadas de este punto.', 'lopd'), 'http://microsoft.com/spain/empresas/guia_lopd/calidad_datos.mspx'); ?></p>
+                <p><?php echo sprintf(__('<a href="%s">Calidad de Datos</a>. Ver Calidad de datos para profundizar y contemplar las infracciones derivadas de este punto.', 'lopd'), 'http://www.microsoft.com/business/es-es/content/paginas/article.aspx?cbcid=320'); ?></p>
 
                 <p><?php _e('Para cumplir con este apartado habría que diseñar un procedimiento de recogida de datos que se adecue a lo que necesitamos para nuestro proposito, o sea, un formulario donde se muestren todos los datos que vamos a recoger e informar al usuario mediante las condiciones de uso que sus datos van a ser utilizados para “xxx” fin y van a ser mantenidos hasta que el utilice sus derechos de ARCO o su cuenta sea borrada del sistema mediante un formulario una vez logueado para evitar la baja de su cuenta por terceros.', 'lopd'); ?></p>
                 <p><b><?php _e('Este plugin ya cumple con este apartado, informando a la hora del registro de que deben aceptar la política de privacidad (modificable desde el panel de administrador)', 'lopd'); ?></b></p>
@@ -138,7 +140,7 @@
 
                 <p><?php _e('Hay que señalar que el consentimiento general exigido por la ley va íntimamente ligado a la obligación de informar, a la hora de la recogida de los datos, de los extremos señalados en el art.5 (derecho de información en la recogida), puesto que entiende la Ley que a partir de dicha información el afectado es consciente y toma conocimiento de la existencia del tratamiento que se va a realizar, las finalidades y los derechos que le asisten. ', 'lopd'); ?></p>
 
-                <p><?php echo sprintf(__('<a href="%s">Fuente</a>', 'lopd'), 'http://microsoft.com/spain/empresas/guia_lopd/consentimiento_afectado.mspx'); ?></p>
+                <p><?php echo sprintf(__('<a href="%s">Consentimiento afectado</a>', 'lopd'), 'http://www.microsoft.com/business/es-es/content/paginas/article.aspx?cbcid=321'); ?></p>
 
 
                 <p><?php _e('Para cumplir con este apartado habría que incluir las clausulas necesarias en las politicas de uso, haciendo referencia a ellas en el formulario de recogida de datos.', 'lopd'); ?></p>
@@ -168,6 +170,6 @@
                 <p><b><?php _e('Este plugin ayuda con este apartado, ofreciendo los derechos antes descritos.', 'lopd'); ?></b></p>
             </fieldset>
         </div>
-        <div style="clear: both;"></div>										
+        <div style="clear: both;"></div>                                                                                
     </div>
 </div>
